@@ -1,2 +1,2 @@
 #!/bin/bash
-find . "*.html" -exec cp -u /alx-system_engineering-devops
+cp *.html /alx-system_engineering-devops
